@@ -16,7 +16,7 @@
 [*1] *ban@tagmembro/ @numero do membro/já foi 😂tarde👋
 
 [*2] *demitir@tagadmin
-[*3] *profix 
+[*3] *profix/ *menu
 [*4] *add{quem voce quer add?}
 [*5] *convite 
 [*6] *gp {open/glose}/grupo on/grupo off 
