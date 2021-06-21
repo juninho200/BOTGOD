@@ -3,7 +3,9 @@ const menu = () => {
 	return `
 CANAL: 
 ☪️ SE INSCREVE LÁ POHA⚡💥
-☪️ MEU WHATSAPP: Wa.me//+55438459-6408
+☪️ MEU WHATSAPP: Wa.me//+55438459-6408 
+☪️ MEU CANAL: https://youtube.com/channel/UCpWLR6Eyadxhin3jfu5uSTA
+
 ━━━━━━━━❪❂❫━━━━━━━━  
 
 🍁 comandos para áudio:  
