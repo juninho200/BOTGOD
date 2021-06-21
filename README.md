@@ -28,7 +28,7 @@
 [*12]*admir remover membro@banmembro/quem mandou nao seguir ad regras kkk
 [*13]*pt at/mensagem por áudio 
 [*14]*abaixar musica mp3@nome da musica
-
+[*15]*
 
 
 
